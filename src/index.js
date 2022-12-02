@@ -14,7 +14,7 @@ import {
 import type { Encoding } from './encoding';
 
 // Maximum encoded message length
-const MAX_ENC_LENGTH = 90;
+const MAX_ENC_LENGTH = 180;
 
 type FiveBitArray = BitArray<5>;
 
